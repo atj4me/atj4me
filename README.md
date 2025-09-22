@@ -11,10 +11,9 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with **9+ yea
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atj4me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephathampi@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://atj4me.wordpress.com/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ajitht3)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephajithampi)
 
-📍 **Toronto, Ontario, Canada** | 📱 **+1 (437) 366-5297**
+📍 **Toronto, Ontario, Canada**
 
 ---
 
@@ -197,16 +196,6 @@ AI-powered helper library leveraging AWS services for intelligent automation.
 
 ---
 
-### 📫 How to reach me:
-- 💼 **LinkedIn:** [Ajith Thampi Joseph](https://www.linkedin.com/in/thampiajit)
-- 📧 **Email:** [josephathampi@gmail.com](mailto:josephathampi@gmail.com)
-- 🌐 **Blog:** [atj4me.wordpress.com](https://atj4me.wordpress.com/)
-- 💼 **Upwork:** [Professional Profile](https://www.upwork.com/freelancers/ajitht3)
-- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephajithampi)
-- 📱 **Phone:** +1 (437) 366-5297
-
----
-
 ### ⚡ Fun Facts:
 - 🎯 **Problem Solver:** If a project needs a skill I don't have, I learn it - most programming languages share similar logic!
 - 🔧 **Tech Enthusiast:** Love building custom PCs, setting up media servers, and home automation
@@ -228,4 +217,4 @@ AI-powered helper library leveraging AWS services for intelligent automation.
 
 ---
 
-*This README was crafted with ❤️ by Ajith Thampi Joseph*.
+*This README was crafted with ❤️ by Ajith Thampi Joseph*
