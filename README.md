@@ -218,8 +218,6 @@ AI-powered helper library leveraging AWS services for intelligent automation.
 
 ### Thank you for visiting my profile! 🙏
 
-![Visitor Count](https://profile-counter.glitch.me/atj4me/count.svg)
-
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
 *Available for exciting opportunities in Toronto and remote positions worldwide!*
