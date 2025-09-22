@@ -9,9 +9,10 @@ Welcome to my GitHub profile! I'm an experienced Software Engineer with **9+ yea
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thampiajit)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atj4me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephajithampi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephathampi@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://atj4me.wordpress.com/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/ajitht3)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephajithampi)
 
 📍 **Toronto, Ontario, Canada** | 📱 **+1 (437) 366-5297**
 
@@ -198,9 +199,10 @@ AI-powered helper library leveraging AWS services for intelligent automation.
 
 ### 📫 How to reach me:
 - 💼 **LinkedIn:** [Ajith Thampi Joseph](https://www.linkedin.com/in/thampiajit)
-- 📧 **Email:** [josephajithampi@gmail.com](mailto:josephajithampi@gmail.com)
+- 📧 **Email:** [josephathampi@gmail.com](mailto:josephathampi@gmail.com)
 - 🌐 **Blog:** [atj4me.wordpress.com](https://atj4me.wordpress.com/)
 - 💼 **Upwork:** [Professional Profile](https://www.upwork.com/freelancers/ajitht3)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@josephajithampi)
 - 📱 **Phone:** +1 (437) 366-5297
 
 ---
@@ -226,4 +228,4 @@ AI-powered helper library leveraging AWS services for intelligent automation.
 
 ---
 
-*This README was crafted with ❤️ by Ajith Thampi Joseph*
+*This README was crafted with ❤️ by Ajith Thampi Joseph*.
